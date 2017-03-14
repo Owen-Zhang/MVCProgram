@@ -47,18 +47,22 @@ namespace MVCFluentValidation.cs.Models
     public class MapInfoValidator : ValidationBase<MapInfo>
     {
         public MapInfoValidator() {
-            
-            this.RuleFor(item => item.XPoint)
-                .NotNull()
-                .NotEmpty();
 
-            this.RuleFor(item => item.YPoing)
+            this.RuleSet("Create", () => {
+                this.RuleFor(item => item.AddressInfo)
                 .NotNull()
                 .NotEmpty();
+            });
 
-            this.RuleFor(item => item.AddressInfo)
-                .NotNull()
-                .NotEmpty();
+            this.RuleSet("Update", () => {
+                this.RuleFor(item => item.XPoint)
+                 .NotNull()
+                 .NotEmpty();
+
+                this.RuleFor(item => item.YPoing)
+                    .NotNull()
+                    .NotEmpty(); 
+            });
         }
     }
 }

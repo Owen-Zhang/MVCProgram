@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using FluentValidation.Mvc;
 using MVCFluentValidation.cs.Models;
 
 namespace MVCFluentValidation.cs.Controllers
@@ -31,7 +32,7 @@ namespace MVCFluentValidation.cs.Controllers
         }
 
         [HttpPost]
-        public ActionResult Create(MapInfo info )
+        public ActionResult Create([CustomizeValidatorAttribute(RuleSet = "Create")] MapInfo info)
         {
             if (ModelState.IsValid)
                 return RedirectToAction("Index");
