@@ -1,0 +1,9 @@
+D:\GitWork\MVC-Program\MVCProgram\DataService\bin\Debug\DataService.dll
+D:\GitWork\MVC-Program\MVCProgram\DataService\bin\Debug\DataService.pdb
+D:\GitWork\MVC-Program\MVCProgram\DataService\bin\Debug\MVC-Core.dll
+D:\GitWork\MVC-Program\MVCProgram\DataService\bin\Debug\Autofac.dll
+D:\GitWork\MVC-Program\MVCProgram\DataService\bin\Debug\MVC-Core.pdb
+D:\GitWork\MVC-Program\MVCProgram\DataService\bin\Debug\Autofac.xml
+D:\GitWork\MVC-Program\MVCProgram\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\GitWork\MVC-Program\MVCProgram\DataService\obj\Debug\DataService.dll
+D:\GitWork\MVC-Program\MVCProgram\DataService\obj\Debug\DataService.pdb

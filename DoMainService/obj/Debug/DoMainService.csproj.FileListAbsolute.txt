@@ -1,0 +1,9 @@
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\bin\Debug\DoMainService.dll
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\bin\Debug\DoMainService.pdb
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\bin\Debug\MVC-Core.dll
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\bin\Debug\Autofac.dll
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\bin\Debug\MVC-Core.pdb
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\bin\Debug\Autofac.xml
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\obj\Debug\DoMainService.csprojResolveAssemblyReference.cache
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\obj\Debug\DoMainService.dll
+D:\GitWork\MVC-Program\MVCProgram\DoMainService\obj\Debug\DoMainService.pdb

@@ -1,0 +1,8 @@
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\MVC-Core.dll
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\MVC-Core.pdb
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\Autofac.dll
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\Autofac.Integration.Mvc.dll
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\Autofac.xml
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\Autofac.Integration.Mvc.xml
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\obj\Debug\MVC-Core.dll
+D:\GitWork\MVC-Program\MVCProgram\MVC-Core\obj\Debug\MVC-Core.pdb

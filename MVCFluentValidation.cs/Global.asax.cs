@@ -5,6 +5,7 @@ using System.Web.Optimization;
 using System.Web.Routing;
 using FluentValidation.Attributes;
 using FluentValidation.Mvc;
+using MVC_Core;
 
 namespace MVCFluentValidation.cs
 {
@@ -20,6 +21,8 @@ namespace MVCFluentValidation.cs
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
            // AuthConfig.RegisterAuth();
+
+            AutofacManager.Current.Init();
 
             DataAnnotationsModelValidatorProvider.AddImplicitRequiredAttributeForValueTypes = false;
             ModelValidatorProviders.Providers.Add(new FluentValidationModelValidatorProvider(new AttributedValidatorFactory()));
