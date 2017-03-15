@@ -59,7 +59,7 @@ namespace MVC_Core
             }
 
             ContainerBuilder builder = new ContainerBuilder();
-            builder.RegisterControllers(Assembly.GetExecutingAssembly()); //Assembly.LoadFile(Path.Combine(HttpContext.Current.Server.MapPath("~"), "bin", "MVCFluentValidation.cs.dll")));
+            builder.RegisterControllers(Assembly.GetExecutingAssembly());
 
             builder.RegisterAssemblyTypes(assemblies.ToArray())
                     .Where(type => typeof(IDependency).IsAssignableFrom(type) && !type.IsAbstract)
