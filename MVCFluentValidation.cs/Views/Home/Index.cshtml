@@ -50,9 +50,14 @@
 <script type="text/javascript">
     function functionPostData()
     {
-        $.post("/Home/Create", {XPoint:"125.264"}, function (result)
-        {
-            alert(result);
-        }, "application/json");
+        $.ajax(
+           {
+               url: "Home/Create",
+               type:"POST",
+                data: { XPoint: "125.264" },
+                success: function (result) {
+                    alert(result)
+                }
+           });
     }
 </script>

@@ -7,3 +7,12 @@ D:\GitWork\MVC-Program\MVCProgram\DoMainService\bin\Debug\Autofac.xml
 D:\GitWork\MVC-Program\MVCProgram\DoMainService\obj\Debug\DoMainService.csprojResolveAssemblyReference.cache
 D:\GitWork\MVC-Program\MVCProgram\DoMainService\obj\Debug\DoMainService.dll
 D:\GitWork\MVC-Program\MVCProgram\DoMainService\obj\Debug\DoMainService.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\bin\Debug\DoMainService.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\bin\Debug\DoMainService.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\bin\Debug\MVC-Core.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\bin\Debug\Autofac.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\bin\Debug\MVC-Core.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\bin\Debug\Autofac.xml
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\obj\Debug\DoMainService.csprojResolveAssemblyReference.cache
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\obj\Debug\DoMainService.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService\obj\Debug\DoMainService.pdb

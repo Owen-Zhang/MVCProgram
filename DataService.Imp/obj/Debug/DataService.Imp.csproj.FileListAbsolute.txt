@@ -9,3 +9,14 @@ D:\GitWork\MVC-Program\MVCProgram\DataService.Imp\bin\Debug\Autofac.xml
 D:\GitWork\MVC-Program\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.csprojResolveAssemblyReference.cache
 D:\GitWork\MVC-Program\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.dll
 D:\GitWork\MVC-Program\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\DataService.Imp.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\DataService.Imp.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\DataService.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\MVC-Core.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\Autofac.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\DataService.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\MVC-Core.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\Autofac.xml
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.csprojResolveAssemblyReference.cache
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.pdb

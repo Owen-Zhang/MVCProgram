@@ -6,3 +6,12 @@ D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\Autofac.xml
 D:\GitWork\MVC-Program\MVCProgram\MVC-Core\bin\Debug\Autofac.Integration.Mvc.xml
 D:\GitWork\MVC-Program\MVCProgram\MVC-Core\obj\Debug\MVC-Core.dll
 D:\GitWork\MVC-Program\MVCProgram\MVC-Core\obj\Debug\MVC-Core.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\bin\Debug\MVC-Core.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\bin\Debug\MVC-Core.pdb
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\bin\Debug\Autofac.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\bin\Debug\Autofac.xml
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\bin\Debug\Autofac.Integration.Mvc.xml
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\obj\Debug\MVC-Core.csprojResolveAssemblyReference.cache
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\obj\Debug\MVC-Core.dll
+D:\Code\Asp.net_MVC_Code\MVCProgram\MVC-Core\obj\Debug\MVC-Core.pdb

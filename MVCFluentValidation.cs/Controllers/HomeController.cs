@@ -47,7 +47,7 @@ namespace MVCFluentValidation.cs.Controllers
                 return RedirectToAction("Index");
 
             var errors = ModelState.Values.ToList().FindAll(item => item.Errors.Count > 0);
-            var errorStrList = new List<dynamic>(errors.Count);
+            var errorStrList = new List<string>(errors.Count);
 
             foreach (var item in errors)
             {
