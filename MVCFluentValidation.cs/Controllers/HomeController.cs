@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using DoMainService;
 using FluentValidation.Mvc;
 using MVCFluentValidation.cs.Models;
+using System.Configuration;
 
 namespace MVCFluentValidation.cs.Controllers
 {
@@ -20,7 +21,7 @@ namespace MVCFluentValidation.cs.Controllers
 
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = ConfigurationManager.AppSettings["TestConfigSource"]; //"Modify this template to jump-start your ASP.NET MVC application.";
 
             return View();
         }
