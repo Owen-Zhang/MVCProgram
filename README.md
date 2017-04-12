@@ -1,1 +1,3 @@
-# MVCProgram(mvc 4)
+AutoFac
+FluentValidation
+WebConfig -> configSource
