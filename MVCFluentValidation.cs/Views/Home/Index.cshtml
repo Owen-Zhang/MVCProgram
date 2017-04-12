@@ -46,6 +46,10 @@
 <div>
     <input type="button" value="postData" onclick="functionPostData()"/>
 </div>
+<p />
+<div>
+    <input type="button" value="postMultipleData" onclick="PostMultipleData()" />
+</div>
 
 <script type="text/javascript">
     function functionPostData()
@@ -59,5 +63,35 @@
                     alert(result)
                 }
            });
+    }
+
+    /*传递复杂的对象2 对象中包含数组*/
+    function PostMultipleData() {
+        var addressList = new Array({
+            Name: "Test Address",
+            ZipCode: "5454826"
+        }, {
+            Name: "Address2",
+            ZipCode: ""
+        });
+
+        var data = {
+            Name: "",
+            Tel: "sdfasd",
+            AddressInfoList: addressList
+        };
+
+        $.ajax({
+            url: '@Url.Action("TestMultipleData")',
+            type: "POST",
+            contentType: 'application/json',
+            data: JSON.stringify(data),
+            success: function (result) {
+                console.log(result);
+            },
+            error: function (result) {
+                console.log(result);
+            }
+        });
     }
 </script>

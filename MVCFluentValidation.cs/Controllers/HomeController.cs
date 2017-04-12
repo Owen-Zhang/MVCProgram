@@ -55,8 +55,23 @@ namespace MVCFluentValidation.cs.Controllers
                 errorStrList.Add(item.Errors.First().ErrorMessage);
             }
 
-            return Json(errorStrList);
-            //return Json(result, JsonRequestBehavior.AllowGet);
+            return Json(errorStrList, JsonRequestBehavior.AllowGet);
+        }
+
+        public ActionResult TestMultipleData([CustomizeValidatorAttribute] MultipleModel info)
+        {
+            if (ModelState.IsValid)
+                return RedirectToAction("Index");
+
+            var errors = ModelState.Values.ToList().FindAll(item => item.Errors.Count > 0);
+            var errorStrList = new List<string>(errors.Count);
+
+            foreach (var item in errors)
+            {
+                errorStrList.Add(item.Errors.First().ErrorMessage);
+            }
+
+            return Json(errorStrList, JsonRequestBehavior.AllowGet);
         }
     }
 }
