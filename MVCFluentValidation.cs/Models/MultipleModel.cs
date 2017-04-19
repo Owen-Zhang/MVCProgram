@@ -21,6 +21,14 @@ namespace MVCFluentValidation.cs.Models
         public string Name {get;set;}
 
         public string ZipCode {get;set;}
+
+        public PointType? PointType { get; set; }
+    }
+
+    public enum PointType
+    {
+        XYPoint,
+        XYZPoint
     }
 
     public class MultipleModelValidator : ValidationBase<MultipleModel>

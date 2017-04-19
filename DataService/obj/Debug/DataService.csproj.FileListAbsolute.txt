@@ -16,3 +16,12 @@ D:\Code\Asp.net_MVC_Code\MVCProgram\DataService\bin\Debug\Autofac.xml
 D:\Code\Asp.net_MVC_Code\MVCProgram\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
 D:\Code\Asp.net_MVC_Code\MVCProgram\DataService\obj\Debug\DataService.dll
 D:\Code\Asp.net_MVC_Code\MVCProgram\DataService\obj\Debug\DataService.pdb
+D:\work\Git\MVCProgram\DataService\bin\Debug\DataService.dll
+D:\work\Git\MVCProgram\DataService\bin\Debug\DataService.pdb
+D:\work\Git\MVCProgram\DataService\bin\Debug\MVC-Core.dll
+D:\work\Git\MVCProgram\DataService\bin\Debug\Autofac.dll
+D:\work\Git\MVCProgram\DataService\bin\Debug\MVC-Core.pdb
+D:\work\Git\MVCProgram\DataService\bin\Debug\Autofac.xml
+D:\work\Git\MVCProgram\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+D:\work\Git\MVCProgram\DataService\obj\Debug\DataService.dll
+D:\work\Git\MVCProgram\DataService\obj\Debug\DataService.pdb

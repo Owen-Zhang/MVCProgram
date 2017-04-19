@@ -46,7 +46,7 @@ namespace MVCFluentValidation.cs.Controllers
         {
             if (ModelState.IsValid)
                 return RedirectToAction("Index");
-
+            
             var errors = ModelState.Values.ToList().FindAll(item => item.Errors.Count > 0);
             var errorStrList = new List<string>(errors.Count);
 

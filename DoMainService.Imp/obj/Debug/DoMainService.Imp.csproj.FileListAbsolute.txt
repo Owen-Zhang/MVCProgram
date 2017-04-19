@@ -24,3 +24,16 @@ D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService.Imp\bin\Debug\Autofac.xml
 D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService.Imp\obj\Debug\DoMainService.Imp.csprojResolveAssemblyReference.cache
 D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService.Imp\obj\Debug\DoMainService.Imp.dll
 D:\Code\Asp.net_MVC_Code\MVCProgram\DoMainService.Imp\obj\Debug\DoMainService.Imp.pdb
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\DoMainService.Imp.dll
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\DoMainService.Imp.pdb
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\DataService.dll
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\DoMainService.dll
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\MVC-Core.dll
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\Autofac.dll
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\DataService.pdb
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\DoMainService.pdb
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\MVC-Core.pdb
+D:\work\Git\MVCProgram\DoMainService.Imp\bin\Debug\Autofac.xml
+D:\work\Git\MVCProgram\DoMainService.Imp\obj\Debug\DoMainService.Imp.csprojResolveAssemblyReference.cache
+D:\work\Git\MVCProgram\DoMainService.Imp\obj\Debug\DoMainService.Imp.dll
+D:\work\Git\MVCProgram\DoMainService.Imp\obj\Debug\DoMainService.Imp.pdb

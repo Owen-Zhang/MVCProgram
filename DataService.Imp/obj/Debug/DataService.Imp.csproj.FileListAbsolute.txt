@@ -20,3 +20,14 @@ D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\bin\Debug\Autofac.xml
 D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.csprojResolveAssemblyReference.cache
 D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.dll
 D:\Code\Asp.net_MVC_Code\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.pdb
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\DataService.Imp.dll
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\DataService.Imp.pdb
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\DataService.dll
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\MVC-Core.dll
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\Autofac.dll
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\DataService.pdb
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\MVC-Core.pdb
+D:\work\Git\MVCProgram\DataService.Imp\bin\Debug\Autofac.xml
+D:\work\Git\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.csprojResolveAssemblyReference.cache
+D:\work\Git\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.dll
+D:\work\Git\MVCProgram\DataService.Imp\obj\Debug\DataService.Imp.pdb
